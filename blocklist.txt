@@ -490,3 +490,10 @@ www.linkedin.com##.mweb-app-upsell
 
 ! 9 Nov 2024 https://www.gamesradar.com
 www.gamesradar.com##.bordeaux-slot
+
+
+www.linkedin.com##.feed-item:has-text(S)
+www.reddit.com##inline-auth-landing-experience-xpromo-shell.absolute
+kotaku.com##.js_suggested-stories
+kotaku.com##.js_related-stories-inset-mobile
+kotaku.com##.instream-native-video.instream-permalink.instream-native-video--mobile.sticky
