@@ -497,3 +497,5 @@ www.reddit.com##inline-auth-landing-experience-xpromo-shell.absolute
 kotaku.com##.js_suggested-stories
 kotaku.com##.js_related-stories-inset-mobile
 kotaku.com##.instream-native-video.instream-permalink.instream-native-video--mobile.sticky
+
+pcgamer.com##aside[data-component-name="Recirculation:ArticleRiver"]
